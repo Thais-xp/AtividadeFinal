@@ -1,0 +1,16 @@
+﻿{
+  "Id": "VUimBT4DGkq2cbq1fuUrfg",
+  "Reference": "crsG1drqmkCNuvKPr3XwEA/VUimBT4DGkq2cbq1fuUrfg",
+  "ParentRef": "crsG1drqmkCNuvKPr3XwEA/vIj33NHxEUK78ATdTKhi3w",
+  "Name": "Work Itens",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-03-11T11:45:52.6053047Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-11T11:46:09.559436Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

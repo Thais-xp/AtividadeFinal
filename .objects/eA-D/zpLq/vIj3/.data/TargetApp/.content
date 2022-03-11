@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="1912, -8, 1456, 876" BrowserType="Firefox" ContentHash="u1eFr0Cw5Ei8bcIbejCY7A" Selector="&lt;html app='firefox.exe' title='ACME System 1 - Log In'/&gt;" Url="https://acme-test.uipath.com/login" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0Ly9MmbyDVECNhDOg1nQazg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="b677d02da73e8659a9953e478c969257.png" xmlns="">0BaX1NChxiEqCBD5oK7MW_g</imageRef>
+</TargetApp>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/login" ContentHash="-sNYMnvxpUCIRNaItu4G5w" DesignTimeRectangle="228, 492, 485, 34" ElementType="InputBoxPassword" FriendlyName="'t15f04a98'" FullSelectorArgument="&lt;webctrl tag='INPUT' type='password' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' aaname='Password:' /&gt;" Guid="cf8c5686-449c-4755-a18a-7f3d06b9f572" ScopeSelectorArgument="&lt;html app='firefox.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, FuzzySelector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="228, 467, 72, 20" ElementType="Text" FriendlyName="'Password'" FullSelectorArgument="&lt;webctrl aaname='Password:' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Password:' tag='LABEL' type='' check:text='Password:' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1yjPo5074hE-k0NYoV3BaSg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_nf1tFVvwkypi1PwA0tzJg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6d1653fe8d3449c2f5c00dce1d85ca8e.png" xmlns="">0P7w8LbIiTUO69RRnvawfDQ</imageRef>
+</TargetAnchorable>

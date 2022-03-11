@@ -1,0 +1,16 @@
+﻿{
+  "Id": "wmHWlpNsG0C3zuUxc0ucwg",
+  "Reference": "crsG1drqmkCNuvKPr3XwEA/wmHWlpNsG0C3zuUxc0ucwg",
+  "ParentRef": "crsG1drqmkCNuvKPr3XwEA/vIj33NHxEUK78ATdTKhi3w",
+  "Name": "Email",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Created": "2022-03-11T11:34:28.205046Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-11T11:37:36.1257739Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

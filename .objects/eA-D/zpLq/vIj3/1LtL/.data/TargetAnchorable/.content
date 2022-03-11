@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/login" ContentHash="aC2nZnaF6EWtu_X-vtxsQQ" DesignTimeRectangle="228, 583, 61, 34" ElementType="Button" FriendlyName="'Login'" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='submit' aaname='                             Login                         ' check:text='Login' /&gt;" Guid="e8007fd2-9946-42d1-a7e9-32fca3319f5e" ScopeSelectorArgument="&lt;html app='firefox.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0O800-wE9TUiJ7GJpZTkU7Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7e78bf8d45b2802d79ef413ff6abf0fc.png" xmlns="">0HtZpHKYZWkie3OApr02NeQ</imageRef>
+</TargetAnchorable>
